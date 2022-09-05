@@ -1,4 +1,4 @@
-package Project;
+package interf.transport;
 
 public class Car implements Wheel {
 
@@ -9,7 +9,7 @@ public class Car implements Wheel {
     }
 
     public void stop() {
-        System.out.println("Go Car with plate." + plate);
+        System.out.println("Go Car with plate:" + plate);
     }
 
     public void go() {

@@ -1,4 +1,4 @@
-package Project;
+package interf.transport;
 
 public interface Wheel {
     public int plate = 50;
