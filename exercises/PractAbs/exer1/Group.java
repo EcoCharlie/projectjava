@@ -1,4 +1,4 @@
-package exercises.PractAbs;
+package exercises.PractAbs.exer1;
 
 public class Group extends Discount {
     private Character nameGroup;
@@ -53,7 +53,4 @@ public class Group extends Discount {
 
         return mount;
     }
-
-    
-    
 }
